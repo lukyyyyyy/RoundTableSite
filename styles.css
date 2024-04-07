@@ -1,68 +1,39 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-  }
+
+.footer {
+
+  position: absolute;
+  bottom: 0
+
+}
+
+#imagen {
+
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1980px;
+  height: 1080px;
   
-  header {
-    background-color: #333;
-    color: #fff;
-    padding: 20px;
-    text-align: center;
-  }
-  
-  nav ul {
-    list-style-type: none;
-    padding: 0;
-  }
-  
-  nav ul li {
-    display: inline;
-    margin-right: 20px;
-  }
-  
-  nav ul li a {
-    color: #fff;
-    text-decoration: none;
-  }
-  
-  section {
-    padding: 50px;
-  }
-  
-  footer {
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    padding: 20px;
-  }
-  
-  form {
-    margin-top: 20px;
-  }
-  
-  label {
-    display: block;
-    margin-bottom: 5px;
-  }
-  
-  input[type="text"],
-  input[type="email"],
-  textarea {
-    width: 100%;
-    padding: 10px;
-    margin-bottom: 10px;
-  }
-  
-  button {
-    padding: 10px 20px;
-    background-color: #333;
-    color: #fff;
-    border: none;
-    cursor: pointer;
-  }
-  
-  button:hover {
-    background-color: #555;
-  }
-  
+}
+
+#imagen2 {
+
+  position: fixed;
+  top: 500px;
+  left: 100px;
+  width: 500px;
+  height: 600px;
+
+
+}
+
+#imagen3 {
+
+  position: fixed;
+  top: 500px;
+  left: 1100px;
+  width: 500px;
+  height: 600px;
+
+
+}
